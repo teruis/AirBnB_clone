@@ -28,40 +28,6 @@ search listing <query>
 
 The command interpreter would then display a list of all AirBnB listings that match the query.
 
-**Examples**
-
-Here are some examples of how to use the command interpreter:
-
-```
-# Create a new listing
-create listing
-Title: My Awesome Listing
-Description: This is a great place to stay in San Francisco!
-Location: San Francisco, CA
-
-# Search for listings in San Francisco
-search listing San Francisco
-
-# Display information about a listing
-show listing 12345678-90ab-cdef-ghij-klmnopqrstuvwxyz
-
-# Update a listing
-update listing 12345678-90ab-cdef-ghij-klmnopqrstuvwxyz
-Title: My Even More Awesome Listing
-Description: This is now the best place to stay in San Francisco!
-
-# Delete a listing
-delete listing 12345678-90ab-cdef-ghij-klmnopqrstuvwxyz
-```
-
-**Requirements**
-
-The following requirements must be met for this project:
-
-* Python 3.8.5
-* pycodestyle (version 2.8.*)
-* unittest module
-
 **Getting Started**
 
 To get started with this project, clone the following repository:
