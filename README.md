@@ -48,5 +48,3 @@ You can use alternative syntax for some commands:
 * **<class_name>.destroy(<_id>):** Destroys an existing object of the given class
 * **<class_name>.update(<_id>, <attribute_name>, <attribute_value>):** Updates an existing object of the given class
 * **<class_name>.update(<_id>, <dictionary>):** Updates an existing object of the given class using a dictionary of attribute-value pairs
-
-I hope this summary is helpful. Please let me know if you have any other questions.
